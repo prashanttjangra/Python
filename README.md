@@ -93,7 +93,7 @@ For detailed view and code: [4_Salary_Analysis](Project/4_Salary_Analysis.ipynb)
 
 ### 1. Salary Distribution of Data Jobs
 
-![Visualization for salary distribution](Project\Images\salary_distribution.png)
+![Visualization for salary distribution](Project/Images/salary_distribution.png)
 
 *Box plot visualizing the salary distributions for the top 6 data job titles.*
 
@@ -104,7 +104,7 @@ For detailed view and code: [4_Salary_Analysis](Project/4_Salary_Analysis.ipynb)
 
 ### 2. Highest paid and Most Demanded Skills for Data Analysts
 
-![Visualization for highest paid and most demanded skills](Project\Images\highest_salary.png)
+![Visualization for highest paid and most demanded skills](Project/Images/highest_salary.png)
 
 *Two separate bar graphs visualizing the highest paid skills and most in-demand skills for data analysts.*
 
